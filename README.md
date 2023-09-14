@@ -1,2 +1,2 @@
 # AIML-Training
-Sample Scripts to Try Supervised Learning
+Sample Python scripts to try various AI/ML algorithms
